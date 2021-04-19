@@ -13,19 +13,16 @@
   margin-top: 0;
 }
 
-header {
-  position: fixed;
-  display: flex;
-  text-align: center;
-  top: 0;
-  margin-left: 1.5%;
+.title {
+  display: block;
+  justify-content: center;
 }
 
 h1 {
   font-family: roboto;
   font-size: 8em;
   text-decoration: underline;
-
+  text-align: center;
 }
 
 p {
@@ -34,5 +31,9 @@ p {
 }
 
 .first-stanza {
-  margin-top: 200px;
+  margin-top: 5%;
+}
+
+.stanza {
+  opacity: 0;
 }
