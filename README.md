@@ -1,4 +1,4 @@
-Wherever Life Takes Me
+*Wherever Life Takes Me*
 
 A poem in memorium
 
