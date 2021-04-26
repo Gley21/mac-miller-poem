@@ -19,10 +19,11 @@
   margin-top: 0;
 }
 
-.page {
-  margin-left: 25%;
-  margin-right: 25%;
+body {
+  max-width: 70em;
+  margin: auto;
 }
+
 .title {
   display: block;
   justify-content: center;
