@@ -76,6 +76,11 @@ a:hover {
   color: #55ddff;
 }
 
+.video {
+  display: flex;
+  justify-content: center;
+}
+
 .first-stanza {
   margin-top: 10px;
   display: block;
